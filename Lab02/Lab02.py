@@ -4,6 +4,7 @@ lab01 - przywitanie z pythonem
 #wyświetlenie tekstu
 print("Witaj, Python!")
 
+
 #podstawowe formatowanie tekstu (Python 2.7)
 print("Mam na imię %s. Mam %d lat. " % ("Mark", 5))
 
