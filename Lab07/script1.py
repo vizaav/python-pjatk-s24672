@@ -5,7 +5,7 @@ Lab07 - Klasy
 class Zwierz:
     """Pierwsza klasa"""
 
-    def podaj_gatunek(selfself):
+    def podaj_gatunek(self):
         print("lis")
 
 a = Zwierz()
